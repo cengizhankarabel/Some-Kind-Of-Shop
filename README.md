@@ -10,8 +10,7 @@ Console-based project
 ## Purpose
 
    Understanding concept of object-oriented programming (Encapsulation, Abstraction, Inheritance, Polymorphism).
-   Working with JUnit test, Log4j
-   MySQL functions.
+   Working with JUnit test, Log4j and MySQL functions.
 
 ## Requirements
 1. Functionality should reflect the below user stories.
