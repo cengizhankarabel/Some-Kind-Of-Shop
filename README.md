@@ -9,7 +9,7 @@ Console-based project
 	
 ## Purpose
 
-   We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team.
+   Understanding concept of object-oriented programming (Encapsulation, Abstraction, Inheritance, Polymorphism) also working with JUnit test, Log4j with mySQL operations.
 
 ## Requirements
 1. Functionality should reflect the below user stories.
@@ -21,47 +21,49 @@ Console-based project
 
 
 ## User Stories
-Total Points: 25 Points
 
 * As a user, I can login.
-	* 2 points
-* As an employee, I can add an item to the shop.
-	* 3 points
-* As a customer, I can view the available items.
-	* 1 point
-* As a customer, I can make an offer for an item.
-	* 3 points
-* As an employee, I can accept or reject a pending offer for an item.
-	* 2 points
-* As the system, I update an item to an owned state when an offer is accepted.
-	* 2 points
-* As the system, I reject all other pending offers for an item when an offer is accepted.
-	* 3 points
-* As a user, I can register for a customer account.
-	* 3 points
-* As an employee, I can remove an item from the shop.
-	* 2 points
-* As a customer, I can view the items that I own.
-	* 1 point
-* As a customer, I can view my remaining payments for an item.
-	* 1 point
-* As an employee, I can view all payments.
-	* 1 point
-* As the system, I can calculate the weekly payment.
-	* 1 point
 
-## Bonus
+* As an employee, I can add an item to the shop.
+
+* As a customer, I can view the available items.
+
+* As a customer, I can make an offer for an item.
+
+* As an employee, I can accept or reject a pending offer for an item.
+	
+* As the system, I update an item to an owned state when an offer is accepted.
+
+* As the system, I reject all other pending offers for an item when an offer is accepted.
+
+* As a user, I can register for a customer account.
+
+* As an employee, I can remove an item from the shop.
+
+* As a customer, I can view the items that I own.
+
+* As a customer, I can view my remaining payments for an item.
+
+* As an employee, I can view all payments.
+	
+* As the system, I can calculate the weekly payment.
 
 * As a user, I can make a payment.
+* 
 * As a manager, I can make employee accounts.
+* 
 * As an employee, I can edit existing items.
+* 
 * As a manager, I can fire employees.
+* 
 * As a manager, I can view sales history of all offers.
 
-## Extra bonus
+## Extra
 
-Be creative and incorporate other topics into your project, they do not have to have been covered by our curriculum. Here are some suggestions:
 * File I/O
+* 
 * Threading
+* 
 * Mocking
+* 
 * Password hashing
