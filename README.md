@@ -24,47 +24,27 @@ Console-based project
 ## User Stories
 
 * As a user, I can login.
-
 * As an employee, I can add an item to the shop.
-
 * As a customer, I can view the available items.
-
 * As a customer, I can make an offer for an item.
-
-* As an employee, I can accept or reject a pending offer for an item.
-	
+* As an employee, I can accept or reject a pending offer for an item.	
 * As the system, I update an item to an owned state when an offer is accepted.
-
 * As the system, I reject all other pending offers for an item when an offer is accepted.
-
 * As a user, I can register for a customer account.
-
 * As an employee, I can remove an item from the shop.
-
 * As a customer, I can view the items that I own.
-
 * As a customer, I can view my remaining payments for an item.
-
 * As an employee, I can view all payments.
-	
 * As the system, I can calculate the weekly payment.
-
 * As a user, I can make a payment.
-* 
 * As a manager, I can make employee accounts.
-* 
 * As an employee, I can edit existing items.
-* 
 * As a manager, I can fire employees.
-* 
 * As a manager, I can view sales history of all offers.
 
 ## Extra
 
 * File I/O
-* 
 * Threading
-* 
 * Mocking
-* 
 * Password hashing
